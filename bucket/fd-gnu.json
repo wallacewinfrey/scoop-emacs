@@ -9,7 +9,7 @@
             "extract_dir": "fd-v8.7.0-x86_64-pc-windows-gnu"
         }
     },
-    "bin": "fd.exe",
+    "bin": [ "fd.exe" ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
